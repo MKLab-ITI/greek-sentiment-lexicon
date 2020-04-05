@@ -1,6 +1,6 @@
 greek-sentiment-lexicon
 =======================
-** This work is superseded by the following paper: Tsakalidis, A., Papadopoulos, S., Voskaki, R., Ioannidou, K., Boididou, C., Cristea, A. I., ... & Kompatsiaris, Y. (2018). [Building and evaluating resources for sentiment analysis in the Greek language.](https://link.springer.com/article/10.1007/s10579-018-9420-4) Language resources and evaluation, 52(4), 1021-1044. 
+**This work is superseded by the following paper: Tsakalidis, A., Papadopoulos, S., Voskaki, R., Ioannidou, K., Boididou, C., Cristea, A. I., ... & Kompatsiaris, Y. (2018). [Building and evaluating resources for sentiment analysis in the Greek language.](https://link.springer.com/article/10.1007/s10579-018-9420-4) Language resources and evaluation, 52(4), 1021-1044. 
 Please read the paper and download the relevant resources from the following [link](http://mklab.iti.gr/resources/tsakalidis2017building.zip).**
 
 A lexicon to be used for sentiment analysis in Greek.
